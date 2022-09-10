@@ -35,5 +35,8 @@
     "jest-environment-jsdom": "28.1.0",
     "react-test-renderer": "^18.2.0",
     "typescript": "4.6.4"
+  },
+  "resolutions": {
+    "react-test-renderer": "18.1.0"
   }
 }
